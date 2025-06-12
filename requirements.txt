@@ -1,0 +1,5 @@
+yfinance
+financedatabase
+pandas
+numpy
+requests
